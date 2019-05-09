@@ -2,10 +2,12 @@
 
 ---
 
-## Why?
+## The Problem?
 @ul[](false)
 
 - Each project took time to setup
+- Repetative layouts
+- Need to compete with themed based CMS's
 - Consistency for each project
 - Encourage Best Practices
 - Difficult to add self developed features
@@ -17,7 +19,7 @@
 
 ---
 
-## How?
+## The Solution?
 
 @ul
 
@@ -29,7 +31,104 @@
 @ulend
 
 ---
-test2
+
+## The Benifits?
+
+@ul
+
+- Shared code / Upgrades
+- Faster implementation
+- Bug Fixes
+- Quick to get started on basic sites
+- Example code, baked into the site as a springboard
+- Documentation
+
+@ulend
+---
+
+## Some Examples of components
+
+@ul
+- Image resizing on upload
+- Components to remove the preview button where not needed
+- Basic layout options, such as navigation
+- Built in Accessibility
+- Carousels, galleries etc.
+- Show background colour based on image upload
+- Contact Form
+- Copyright / footer links
+- Sitemap.xml
+- 404 Handler
+- Search
+- News / Blog / Events
+- Fluid Responsive type
+- SEO meta headers & FB / Twitter share meta
+- Default configs, like uSync
+- .EditorConfig, .gitignore, .YAML builds
+- Fav Icon
+- Robots.txt
+- Config Transforms for optimisations / configuration / Health Check
+@ulend
+
+---
+
+## Git it together!
+
+@ul
+- Release Branch
+- Feature Branches
+    - Forking
+    - Upstream Remote
+- Add
+- Pull / merge
+    - Scripts
+- Add Upstream Remote
+- Pull in changes from Release
+@ulend
+
+---
+
+## Get up and running
+
+@ul
+- Chauffeur 
+- uSync
+- These make it easy for others to get on board
+@ulend
+
+---
+
+## Keep it Clean
+
+@ul
+
+- Create each feature as its own component
+- Keep it as general as possible, but still useful
+- CSS Defaults: Less includes
+- JavaScript components
+- CSS/JS Included with client dependency
+    - Browser Sync
+    - Concatination
+- Concatination
+- Razor Partials
+- Handling Occasional Modules
+    - Exclude from project
+    - MyGet / Umbraco Packages
+    - Feature Branches
+
+@ulend
+
+---
+
+## Common Headaches
+
+- Merging included files into .csproj. Sometimes duplicate files
+- Merging Content / uSync
+- Developing new features for a project can be a little cumbersome
+    - Needs to be re-usable
+    - Needs planning
+    - Lots of commits / tests / pulling into projects
+
 ---
 
 ## Add Some Slide Candy
