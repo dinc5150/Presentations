@@ -4,6 +4,7 @@
 
 ## Why?
 @ul[](false)
+
 - Each project took time to setup
 - Consistency for each project
 - Encourage Best Practices
@@ -11,6 +12,7 @@
 - Complex setups for contractors
 - Documentation
 - Maintaining sites: *Upgrades / bug fixes*
+
 @endul
 
 ---
@@ -18,10 +20,12 @@
 ## How?
 
 @ul[](false)
+
 - Develop a core solution
 - Componentise
 - Use git for syncing code
 - Use Tools: *uSync / Chauffeur / Less / Client Dependency*
+
 @ulend
 
 ---
