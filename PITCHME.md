@@ -59,29 +59,27 @@
 
 
 @ul[west span-50 text-06]
-- Image resizing on upload
-- Components to remove the preview button where not needed
-- Basic layout options, such as navigation
-- Built in Accessibility
+- Image resizing @note[auto resize to max width / height]
+- Disable preview button
+- layout options @note[e.g. Options for different menu layouts]
+- Accessibility
 - Carousels, galleries etc.
-- Show background colour based on image upload
-- Contact Form
-- Copyright / footer links
-- Sitemap.xml
-- 404 Handler
+- Image color @note[Calculate main image colour]
+- Forms
+- Footer links
 @ulend
 
 
 @ul[east span-50 text-06]
 - Search
 - News / Blog / Events
-- Fluid Responsive type
-- SEO meta headers & FB / Twitter share meta
-- Default configs, like uSync
-- .EditorConfig, .gitignore, .YAML builds
-- Fav Icon
-- Robots.txt
-- Config Transforms for optimisations / configuration / Health Check
+- Fluid type @note[Reponsive type]
+- SEO / social share
+- Default configs / transorms
+- .EditorConfig, .YAML builds
+- Sitemap.xml @note[Auto Generated]
+- 404 Handler
+
 @ulend
 
 ---
