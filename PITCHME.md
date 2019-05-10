@@ -1,7 +1,10 @@
 # Fast-Tracking<br/>your<br/>Umbraco Development
 
 ---
-@title[The Problem?]
+
+@snap[north]
+# The Problem?
+@snapend
 
 @ul[east span-50](false)
 
