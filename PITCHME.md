@@ -53,8 +53,10 @@
 
 @ulend
 ---
-
+@snap[north span-75]
 ## Some Examples of components
+@snapend
+
 
 @ul[east span-50 text-09]
 - Image resizing on upload
@@ -64,15 +66,22 @@
 - Carousels, galleries etc.
 - Show background colour based on image upload
 - Contact Form
+
+@ulend
+
+
+@ul[span-50 text-09]
 - Copyright / footer links
 - Sitemap.xml
 - 404 Handler
-@ulend
-
-@ul[west span-50 text-09]
 - Search
 - News / Blog / Events
 - Fluid Responsive type
+@ulend
+
+
+@ul[west span-50 text-09]
+
 - SEO meta headers & FB / Twitter share meta
 - Default configs, like uSync
 - .EditorConfig, .gitignore, .YAML builds
