@@ -1,7 +1,6 @@
 # Fast-Tracking<br/>your<br/>Umbraco Development
 
 ---
-
 @title[The Problem?]
 
 @ul[east span-50](false)
