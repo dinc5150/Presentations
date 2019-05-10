@@ -29,6 +29,17 @@
 }
 */
 
+@import url('https://fonts.googleapis.com/css?family=Cutive|Open+Sans');
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2{
+  font-family: 'Cutive', serif;
+}
+
+
 ul {
   list-style: none; /* Remove default bullets */
 }
