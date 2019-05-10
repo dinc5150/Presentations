@@ -10,3 +10,7 @@ body{
     color: #635147;
     font-weight: 700;
   }
+
+  h1{
+      font-size: 2em;
+  }
