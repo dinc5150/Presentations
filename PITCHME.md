@@ -58,7 +58,7 @@
 @snapend
 
 
-@ul[east span-50 text-09]
+@ul[west span-50 text-06]
 - Image resizing on upload
 - Components to remove the preview button where not needed
 - Basic layout options, such as navigation
@@ -66,22 +66,16 @@
 - Carousels, galleries etc.
 - Show background colour based on image upload
 - Contact Form
-
-@ulend
-
-
-@ul[span-50 text-09]
 - Copyright / footer links
 - Sitemap.xml
 - 404 Handler
-- Search
-- News / Blog / Events
-- Fluid Responsive type
 @ulend
 
 
-@ul[west span-50 text-09]
-
+@ul[east span-50 text-06]
+- Search
+- News / Blog / Events
+- Fluid Responsive type
 - SEO meta headers & FB / Twitter share meta
 - Default configs, like uSync
 - .EditorConfig, .gitignore, .YAML builds
