@@ -1,15 +1,20 @@
-# Fast-tracking your Umbraco Development
+# Fast-Tracking<br/>your<br/>Umbraco Development
 
 ---
 
 ## The Problem?
-@ul[](false)
+@ul[east span-50](false)
 
 - Each project took time to setup
 - Repetative layouts
 - Need to compete with themed based CMS's
 - Consistency for each project
 - Encourage Best Practices
+
+@ulend
+
+@ul[west span-50 ](false)
+
 - Difficult to add self developed features
 - Complex setups for contractors
 - Documentation

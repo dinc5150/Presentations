@@ -5,12 +5,21 @@ body{
     color: #635147;
   }
   
-  h1, h2{
-    font-family: 'Cutive', serif !important;
+  .reveal h1, .reveal h2, .reveal ul{
     color: #635147;
-    font-weight: 700;
+}
+
+  .reveal h1, .reveal h2{
+    font-family: 'Cutive', serif !important;
+    
+    font-weight: 300;
+    text-transform: none;
   }
 
-  h1{
+ .reveal h1{
       font-size: 2em;
+  }
+
+  .reveal h2{
+      font-size: 1.8em;
   }
