@@ -5,11 +5,11 @@ body{
     color: #635147;
   }
   
-  .reveal h1, .reveal h2, .reveal ul{
+  .reveal h1, .reveal h2, .reveal h3, .reveal ul{
     color: #635147;
 }
 
-  .reveal h1, .reveal h2{
+  .reveal h1, .reveal h2, .reveal h3{
     font-family: 'Cutive', serif !important;
     
     font-weight: 300;
@@ -21,5 +21,8 @@ body{
   }
 
   .reveal h2{
-      font-size: 1.8em;
-  }
+    font-size: 1.8em;
+}
+.reveal h3{
+    font-size: 1.2em;
+}
