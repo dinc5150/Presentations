@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north]
+@snap[north span-75]
 # The Problem?
 @snapend
 
