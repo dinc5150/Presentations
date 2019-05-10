@@ -2,7 +2,8 @@
 
 ---
 
-## The Problem?
+@title[The Problem?]
+
 @ul[east span-50](false)
 
 - Each project took time to setup
