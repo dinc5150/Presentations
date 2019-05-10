@@ -40,7 +40,7 @@
 
 ---
 
-## The Benifits?
+## The Benefits?
 
 @ul
 
@@ -56,7 +56,7 @@
 
 ## Some Examples of components
 
-@ul
+@ul[east span-50 text-09]
 - Image resizing on upload
 - Components to remove the preview button where not needed
 - Basic layout options, such as navigation
@@ -67,6 +67,9 @@
 - Copyright / footer links
 - Sitemap.xml
 - 404 Handler
+@ulend
+
+@ul[west span-50 text-09]
 - Search
 - News / Blog / Events
 - Fluid Responsive type
