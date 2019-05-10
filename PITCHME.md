@@ -58,7 +58,7 @@
 @snapend
 
 
-@ul[west span-50 text-06]
+@ul[west span-50 text-09]
 - Image resizing @note[auto resize to max width / height]
 - Disable preview button
 - layout options @note[e.g. Options for different menu layouts]
@@ -70,7 +70,7 @@
 @ulend
 
 
-@ul[east span-50 text-06]
+@ul[east span-50 text-09]
 - Search
 - News / Blog / Events
 - Fluid type @note[Reponsive type]
@@ -91,7 +91,6 @@
 - Feature Branches
     - Forking
     - Upstream Remote
-- Add
 - Pull / merge
     - Scripts
 - Add Upstream Remote
