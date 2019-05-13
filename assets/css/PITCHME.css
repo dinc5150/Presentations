@@ -62,7 +62,7 @@ body{
 
 
 
-ul {
+.reveal ul {
   list-style: none; /* Remove default bullets */
 }
 
@@ -72,5 +72,5 @@ ul li::before {
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */ 
   width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: -1em; /* Also needed for space (tweak if needed) */
+  margin-left: -0.9em; /* Also needed for space (tweak if needed) */
 }
