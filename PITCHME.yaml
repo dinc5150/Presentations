@@ -45,3 +45,8 @@ published : false
 title : "Fast-tracking your Umbraco Development"
 description : "Learn how to streamline the Umbraco development process accross many projects"
 thumbnail : http://digitalmomentum.com.au/Images/logos/get.ashx?format=png
+
+
+#
+# Load all assets on first load, rather than lazy load, in case of bad wifi
+eager-loading : true
