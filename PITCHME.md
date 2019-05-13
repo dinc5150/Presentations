@@ -91,7 +91,7 @@
     - Forking
     - Upstream Remote
 - Pull / merge
-    - Scripts note[Add Upstream Remote AND merge in changes]
+    - Scripts @note[Add Upstream Remote AND merge in changes]
 
 @ulend
 
