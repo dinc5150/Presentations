@@ -1,33 +1,4 @@
-/*
-.spaced li {
-  margin:0 0 10px 0;
-}
-
-.shadow {
-  box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
-}
-
-.headline h2 {
-  color: white;
-  letter-spacing: 0.05em;
-  font-variant: small-caps;
-}
-
-.reveal section img {
-  background: none;
-  border: none;
-  box-shadow: none;
-}
-
-.reveal a {
-  color: white;
-}
-
-.reveal a:hover {
-  color: white;
-  font-weight: bold;
-}
-*/
+@import url('https://raw.githubusercontent.com/dinc5150/Presentations/Fasttracking-Umbraco-development/assets/css/typography.css');
 
 body{
   font-family: 'Open Sans', sans-serif !important;
@@ -36,6 +7,7 @@ body{
 
 .reveal h1, .reveal h2, .reveal h3, .reveal ul{
   color: #635147;
+  text-shadow: none;
 }
 
 .reveal h1, .reveal h2, .reveal h3{
@@ -56,7 +28,7 @@ body{
   font-size: 1.2em;
 }
 
-@import url('https://raw.githubusercontent.com/dinc5150/Presentations/Fasttracking-Umbraco-development/assets/css/typography.css');
+
 /*@import url('http://127.0.0.1:5500/assets/css/typography.css');*/
 
 
