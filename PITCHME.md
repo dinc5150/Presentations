@@ -59,7 +59,7 @@
 
 
 @ul[west span-50 text-09]
-- Image resizing @note[auto resize to max width / height]
+- Image resizing @note[auto resize to max width / height PLUS Slimsy]
 - Disable preview button
 - layout options @note[e.g. Options for different menu layouts]
 - Accessibility
@@ -75,7 +75,7 @@
 - News / Blog / Events
 - Fluid type @note[Reponsive type]
 - SEO / social share
-- Default configs / transorms
+- Default configs / transforms
 - .EditorConfig, .YAML builds
 - Sitemap.xml @note[Auto Generated]
 - 404 Handler
@@ -87,14 +87,12 @@
 ## Git it together!
 
 @ul
-- Release Branch
-- Feature Branches
+- Major / Minor Release Branch
     - Forking
     - Upstream Remote
 - Pull / merge
-    - Scripts
-- Add Upstream Remote
-- Pull in changes from Release
+    - Scripts @Note[Add Upstream Remote AND merge in changes]
+- Feature Branches
 @ulend
 
 ---
