@@ -6,9 +6,9 @@
 ## The Problem?
 @snapend
 
-@ul[east span-50](false)
+@ul[west span-50](false)
 
-- Each project took time to setup
+- Setup Time
 - Repetative layouts
 - Need to compete with themed based CMS's
 - Consistency for each project
@@ -16,12 +16,12 @@
 
 @ulend
 
-@ul[west span-50 ](false)
+@ul[east span-50 ](false)
 
-- Difficult to add self developed features
+- Difficult to add features @note[Self developed features / functionality]
 - Complex setups for contractors
 - Documentation
-- Maintaining sites: *Upgrades / bug fixes*
+- Site Maintanance @note[Upgrade CMS/ Bug Fixes]
 
 @ulend
 
