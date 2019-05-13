@@ -91,7 +91,7 @@
     - Forking
     - Upstream Remote
 - Pull / merge
-    - Scripts @Note[Add Upstream Remote AND merge in changes]
+    - Scripts note[Add Upstream Remote AND merge in changes]
 
 @ulend
 
@@ -139,7 +139,7 @@
 ## Common Headaches
 @ul
 
-- Merging included files into .csproj. Sometimes duplicate files
+- Merging included files into .csproj. Duplicate files
 - Merging Content / uSync
 - Developing new features for a project can be a little cumbersome
     - Needs to be re-usable
