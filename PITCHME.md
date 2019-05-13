@@ -92,7 +92,7 @@
     - Upstream Remote
 - Pull / merge
     - Scripts @Note[Add Upstream Remote AND merge in changes]
-- Feature Branches
+
 @ulend
 
 ---
@@ -117,10 +117,20 @@
 - CSS/JS Included with client dependency
     - Browser Sync / Concatination
 - Razor Partials
-- Handling Occasional Modules
-    - Exclude from project
-    - MyGet / Umbraco Packages
-    - Feature Branches
+- Exclude project Files by default
+
+@ulend
+
+
+---
+
+## Handling Components
+
+@ul
+
+- Exclude from project
+- MyGet / Umbraco Packages
+- Feature Branches
 
 @ulend
 
