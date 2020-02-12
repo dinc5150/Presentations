@@ -103,6 +103,7 @@ Note:
 <ul>
 <li style="font-size:80%">our.umbraco.com/documentation/Umbraco-Heartcore/</li>
 <li style="font-size:80%">24days.in/umbraco-cms/2019/hello-heartcore/</li>
+<li style="font-size:80%">skrift.io/articles/archive/spice-up-your-alexa-skill-using-umbraco-heartcore/</li>
 <li style="font-size:80%">github.com/dinc5150/angularHeartcore</li>
 </ul>
 
