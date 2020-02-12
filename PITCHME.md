@@ -19,7 +19,7 @@ Covering
 
 # What is Heartcore and who is it for
 
-![IMAGE](assets/img/heartcore_onichannel_alpha.gif)
+![IMAGE](assets/img/heartcore_omnichannel_alpha.gif)
 
 Note:
 -	Umbraco Headless
@@ -68,6 +68,16 @@ Note:
 
 # Web Hooks
 
+@snap[west span-50]
+##  Web Hooks
+@snapend
+
+@snap[east span-50]
+![Image](assets/img/heartcore_ani_for_light_bg_once.gif)
+@snapend
+
+
+
 Note:
 -	Web hooks post to a given URL on Content-Saved/Published/Deleted and Media-Saved/Deleted
 -	Show how to create a webhook and view the log
@@ -81,3 +91,4 @@ Note:
 ---
 # Demo Time
 ---
+# Thanks!
