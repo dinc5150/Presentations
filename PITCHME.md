@@ -66,8 +66,6 @@ Note:
 
 ---
 
-# Web Hooks
-
 @snap[west span-50]
 ##  Web Hooks
 @snapend
