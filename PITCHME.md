@@ -91,22 +91,18 @@ Note:
 
 
 ---
-# Thanks!
-@snap[east span-50]
-### Me:
+
 <ul>
 <li>@digitalmomentum</li>
 <li>david@digitalmomentum.com.au</li>
 </ul>
-@snapend
 
-@snap[west span-50]
 ### Links:
 <ul>
 <li>our.umbraco.com/documentation/Umbraco-Heartcore/</li>
 <li>24days.in/umbraco-cms/2019/hello-heartcore/</li>
 <li>github.com/dinc5150/angularHeartcore</li>
 </ul>
-@snapend
+
 Note:
  - Angular github Repo
