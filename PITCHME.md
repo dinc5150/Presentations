@@ -88,5 +88,23 @@ Note:
 
 ---
 # Demo Time
+
+
 ---
 # Thanks!
+
+### Me:
+<ul>
+<li>@digitalmomentum</li>
+<li>david@digitalmomentum.com.au</li>
+</ul>
+
+### Links:
+<ul>
+<li>https://our.umbraco.com/documentation/Umbraco-Heartcore/</li>
+<li>https://24days.in/umbraco-cms/2019/hello-heartcore/</li>
+<li>https://github.com/dinc5150/angularHeartcore</li>
+</ul>
+
+Note:
+ - Angular github Repo
