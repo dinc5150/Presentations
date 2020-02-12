@@ -98,7 +98,7 @@ Note:
 </ul>
 
 
-#### Links
+### Links
 
 <ul>
 <li style="font-size:80%">our.umbraco.com/documentation/Umbraco-Heartcore/</li>
