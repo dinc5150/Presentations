@@ -92,16 +92,18 @@ Note:
 
 ---
 ### Me
-<ul>
+<ul style="margin-bottom:30px;">
 <li>@digitalmomentum</li>
 <li>david@digitalmomentum.com.au</li>
 </ul>
-<br/>
+
+
 ### Links
+
 <ul>
-<li style="font-size:90%">our.umbraco.com/documentation/Umbraco-Heartcore/</li>
+<li style="font-size:80%">our.umbraco.com/documentation/Umbraco-Heartcore/</li>
 <li style="font-size:80%">24days.in/umbraco-cms/2019/hello-heartcore/</li>
-<li>github.com/dinc5150/angularHeartcore</li>
+<li style="font-size:80%">github.com/dinc5150/angularHeartcore</li>
 </ul>
 
 Note:
