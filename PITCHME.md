@@ -91,7 +91,7 @@ Note:
 
 
 ---
-### Me
+### Thanks!
 <ul style="margin-bottom:30px;">
 <li>@digitalmomentum</li>
 <li>david@digitalmomentum.com.au</li>
