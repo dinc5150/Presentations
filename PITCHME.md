@@ -1,9 +1,6 @@
-@snap[north span-75]
 # Umbraco Heartcore
-@snapend
 
 ![IMAGE](assets/img/u_heartcore_heart_blue-01.png)
-
 
 Note:
 - Introduce myself
@@ -20,147 +17,67 @@ Covering
 
 ---
 
-@snap[north span-75]
-## The Problem?
-@snapend
+# What is Heartcore and who is it for
 
-@ul[west span-50](false)
+![IMAGE](assets/img/heartcore_onichannel_alpha.gif)
 
-- Setup Time
-- Repetative layouts
-- Need to compete with themed based CMS's
-- Consistency for each project
-- Encourage Best Practices
+Note:
+-	Umbraco Headless
+-	Cloud Hosted
+-	RESTful API
+-	 
+-	Font-end devs who want a good and don’t want to worry about the backend
+-	Cross platform systems: websites, mobile devices, watches, IOT etc.
 
-@ulend
+---
+# What it Aint
 
-@ul[east span-50 ](false)
+Note:
+-	Front-end
+-	Preview
+-	Plugins
+-	Custom Code
 
-- Difficult to add features @note[Self developed features / functionality]
-- Complex setups for contractors
-- Documentation
-- Site Maintanance @note[Upgrade CMS/ Bug Fixes]
+---
+# Getting Setup
 
-@ulend
+Note:
+-	Demo Projects on Github (Dotnet Core / NodeJS) – Can connect to “demo-headless”
+-	Docs
+-	14 day trial
+    - You get a crazy URL like ‘daves-understanding-wombat’ or ‘davids-intuitive-red-panda’
+    - Umbraco.io
+        - this is where you can find your project.
+        - You can manage Environments like staging / Production
+-	Demo the backoffice
 
 ---
 
-## The Solution?
+# Get Connected
 
-@ul
-
-- Develop a core solution
-- Componentise
-- Use git for syncing code
-- Use Tools: *uSync / Chauffeur / Less / Client Dependency*
-
-@ulend
-
----
-
-## The Benefits?
-
-@ul
-
-- Shared code / Upgrades
-- Faster implementation
-- Bug Fixes
-- Quick to get started on basic sites
-- Example code, baked into the site as a springboard
-- Documentation
-
-@ulend
----
-@snap[north span-75]
-### Some Examples of components
-@snapend
-
-
-@ul[west span-50 text-09]
-- Image resizing @note[auto resize to max width / height PLUS Slimsy]
-- Disable preview button
-- layout options @note[e.g. Options for different menu layouts]
-- Accessibility
-- Carousels, galleries etc.
-- Image color @note[Calculate main image colour]
-- Forms
-- Footer links
-@ulend
-
-
-@ul[east span-50 text-09]
-- Search
-- News / Blog / Events
-- Fluid type @note[Reponsive type]
-- SEO / social share
-- Default configs / transforms
-- .EditorConfig, .YAML builds
-- Sitemap.xml @note[Auto Generated]
-- 404 Handler
-
-@ulend
+Note:
+-	API Key / OAuth: Need to send custom header (api-key or Authorisation for oauth)
+-	API Browser
+    - Custom Headers – Language / umb-project-alias 
+    - Default Response
+-	Content Management API
+    - $Invariant
+    - Previewing draft content
 
 ---
 
-## Git it together!
+# Web Hooks
 
-@ul
-- Major / Minor Release Branch
-    - Forking
-    - Upstream Remote
-- Pull / merge
-    - Scripts @note[Add Upstream Remote AND merge in changes]
-
-@ulend
+Note:
+-	Web hooks post to a given URL on Content-Saved/Published/Deleted and Media-Saved/Deleted
+-	Show how to create a webhook and view the log
 
 ---
+# Forms
 
-## Get up and running
-
-@ul
-- Chauffeur 
-- uSync
-- These make it easy for others to get on board
-@ulend
+Note:
+-	Retrieving / posting a form
 
 ---
-
-## Keep it Clean
-
-@ul
-- Create each feature as its own component
-- Keep it as general as possible, but still useful
-- CSS Defaults: Less includes
-- JavaScript components
-- CSS/JS Included with client dependency
-    - Browser Sync / Concatination
-- Razor Partials
-- Exclude project Files by default
-
-@ulend
-
-
+# Demo Time
 ---
-
-## Handling Components
-
-@ul
-
-- Exclude from project
-- MyGet / Umbraco Packages
-- Feature Branches
-
-@ulend
-
----
-
-## Common Headaches
-@ul
-
-- Merging included files into .csproj. Duplicate files
-- Merging Content / uSync
-- Developing new features for a project can be a little cumbersome
-    - Needs to be re-usable
-    - Needs planning
-    - Lots of commits / tests / pulling into projects
-@ulend
