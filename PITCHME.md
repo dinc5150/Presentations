@@ -1,8 +1,12 @@
+@snap[north span-75]
 # Umbraco Heartcore
+@snapend
+
 ![IMAGE](assets/img/u_heartcore_heart_blue-01.png)
 
 
 Note:
+- Introduce myself
 Covering
 -	What is Heartcore and who is it for
 -	What it isn’t
