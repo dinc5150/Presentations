@@ -5,6 +5,7 @@
 Note:
 - Introduce myself
 Covering
+-   30 minute Crash course in heartcore
 -	What is Heartcore and who is it for
 -	What it isn’t
 -	How to get setup
