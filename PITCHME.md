@@ -10,7 +10,6 @@ Covering
 -	How to get setup
 -	Demo Projects
 -	How to connect and browse the API
--	Content Management API
 -	Web Hooks
 -	Forms
 -	Demo of Angular 8 connecting to Heartcore
@@ -24,7 +23,7 @@ Covering
 Note:
 -	Umbraco Headless
 -	Cloud Hosted
--	RESTful API
+-	RESTful API Based on the HAL Standard
 -	 
 -	Font-end devs who want a good and don’t want to worry about the backend
 -	Cross platform systems: websites, mobile devices, watches, IOT etc.
