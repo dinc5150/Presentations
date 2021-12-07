@@ -1,0 +1,61 @@
+/* custom-theme.css */
+/* @theme digital-momentum */
+
+:root {
+    --color-highlight: #f1592a !important;
+  --color-foreground: #443931 !important;
+}
+
+
+@import 'gaia';
+@import url('https://fonts.googleapis.com/css2?family=Cutive&family=Cutive+Mono&family=Open+Sans&display=swap');
+
+
+header{
+    height: 80px;
+    left:0;
+}
+header img{
+    height: 60px;
+    margin-top:10px;
+    float:right;
+}
+
+section{
+    padding-top: 100px
+}
+
+.hljs-name, .hljs-section,.hljs-tag,.hljs-title{
+
+    color: #f1592a;
+}
+
+
+/* Centers the image */
+img[alt~="center"] {
+    display: block;
+    margin: 0 auto;
+  }
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1, h2, h3{
+    font-family: 'Cutive', serif;
+}
+
+h3, h4{
+    color:  #f1592a;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+code{
+    font-family: 'Cutive Mono', monospace;
+    font-size: 0.6em !important;
+}

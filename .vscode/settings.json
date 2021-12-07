@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+      "./assets/css/dm.css"
+    ],
+    "markdown.marp.enableHtml": true
+  }
