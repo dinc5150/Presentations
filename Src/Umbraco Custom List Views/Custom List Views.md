@@ -28,9 +28,17 @@ Creating a custom list view to make it easier for content editors to view produc
 ------
 
 
-## Our Custom View
-![w:580px center ](images/listview.png)
 
+## Our Custom View
+
+![w:800px center ](images/listview.png)
+
+
+<footer>
+
+<a href="https://localhost:44330/umbraco#/content/content/edit/1098" target="_blank">Demo</a>
+
+</footer>
 <!--
 1. Easy for editors
  -->
@@ -159,6 +167,16 @@ ListViewProductsController);
     }
 
 ```
+---
+
+### Bringing it all together
+![w:950px center ](images/listview-setup.png)
+
+<footer>
+
+<a href="https://localhost:44330/umbraco#/settings/documentTypes/edit/1096" target="_blank">Demo</a>
+
+</footer>
 
 ---
 # **Thanks!**
