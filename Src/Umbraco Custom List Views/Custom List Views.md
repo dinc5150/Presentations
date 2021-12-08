@@ -23,7 +23,9 @@ Creating a custom list view to make it easier for content editors to view produc
 ![w:550px](images/card-view.png)
 
 </div>
-
+<!--
+1. Explain why you'd want to create your own
+ -->
 
 ------
 
@@ -39,9 +41,7 @@ Creating a custom list view to make it easier for content editors to view produc
 <a href="https://localhost:44330/umbraco#/content/content/edit/1098" target="_blank">Demo</a>
 
 </footer>
-<!--
-1. Easy for editors
- -->
+
 
 
 ---
