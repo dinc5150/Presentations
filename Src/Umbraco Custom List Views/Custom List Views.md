@@ -10,7 +10,8 @@ header: '![Digital Momentum](https://www.digitalmomentum.com.au/Images/logos/Dig
 
 # **Custom List Views**
 
-Creating a custom list view to make it easier for content editors to view product images and prices
+Make it easier for content editors to view 
+product images and prices
 
 ---
 
