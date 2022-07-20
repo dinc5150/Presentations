@@ -132,3 +132,26 @@ Web components contain:
     - `[property-name]` to set properties
     - `[attr.attribute-name]` for attributes
     - `(event-name)` for events
+
+---
+
+### Links
+
+<div style="columns: 2">
+<div>
+
+This Presentation:  https://bit.ly/umbraco-uui
+
+Umbraco Storybook: https://uui.umbraco.com/
+
+Umbraco UI on Github:
+https://github.com/umbraco/Umbraco.UI
+
+</div>
+<div>
+
+This Presentation:
+![w:400px](img/qr.png)
+
+</div>
+</div>
