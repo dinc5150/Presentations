@@ -1,0 +1,36 @@
+﻿{
+	"propertyEditors": [
+		{
+			"alias": "textcounter",
+			"name": "Text counter",
+			"icon": "icon-code",
+			"group": "Common",
+			"editor": {
+				"view": "~/App_Plugins/text-counter/editorView.html",
+				"hideLabel": false,
+				"valueType": "STRING"
+			},
+			"prevalues": {
+				"fields": [
+					{
+						"label": "Max length",
+						"description": "Show the Title and Description fields to the editor",
+						"key": "maxlength",
+						"view": "textstring",
+						"valueType": "STRING"
+
+					}
+				]
+			},
+			"defaultConfig": {
+				"maxlength": "10"
+			}
+		}
+	],
+	"css": [
+		"~/App_Plugins/text-counter/styles.css"
+	],
+	"javascript": [
+		"~/App_Plugins/text-counter/editorView.controller.js"
+	]
+}

@@ -1,0 +1,14 @@
+﻿<div ng-controller="textCounter" class="text-counter">
+	<script src="https://cdn.jsdelivr.net/npm/@umbraco-ui/uui@1.0.0-rc.0/dist/uui.min.js"></script>
+
+	<uui-form-layout-item>
+		<uui-tag class="counter"
+		ng-prop-color="model.value.length < model.config.maxlength ? 'primary':'danger'">
+			{{model.value.length}}
+		</uui-tag>
+		<uui-input ng-prop-value="model.value"
+				   ng-on-input="model.value = $event.currentTarget.value"
+				   ng-prop-error="model.value.length > model.config.maxlength"
+				   ng-attr-error-message="No more than {{model.config.maxlength}} characters"></uui-input>
+	</uui-form-layout-item>
+</div>
