@@ -10,7 +10,7 @@ header: '![Digital Momentum](https://www.digitalmomentum.com.au/Images/logos/Dig
 
 ![bg left:40% 80%](https://marp.app/assets/marp.svg) -->
 
-# **Umbraco UUI Library**
+# **Umbraco UI Library**
 
 Umbraco webcomponents for creating backoffice components 
 
@@ -63,9 +63,12 @@ Umbraco webcomponents for creating backoffice components
 
 <!--
 Web components contain:
-- Properties / Attributes
+- Properties - Supports complex JS objects
+- Attributes - Plain Html
 - Events
 - Slots
+
+https://open-wc.org/guides/knowledge/attributes-and-properties/#:~:text=Attributes%20have%20the%20benefit%20of,a%20change%20to%20the%20DOM.
 -->
 
 ---
@@ -90,7 +93,11 @@ Web components contain:
 
 ![w:900px](img/storybook.png)
 
+<!--
 
+https://uui.umbraco.com/
+
+-->
 ---
 
 ### Getting our hands dirty!
@@ -115,7 +122,10 @@ Web components contain:
 
 ### Custom Property Overview
 
-- Add script tag to uui`<script src="https://cdn.jsdelivr.net/npm/@umbraco-ui/uui@1.0.0-rc.0/dist/uui.min.js"></script>`
+- Add scripts:
+  - tag to uui`<script src="https://cdn.jsdelivr.net/npm/@umbraco-ui/uui@1.0.0-rc.0/dist/uui.min.js"></script>`
+  - download/include local js version in package.manifest
+  - Import individual components using NPM / ES Imports `import '@umbraco-ui/uui';`
 - ng-prop- to set properties
 - ng-attr- for attributes (Dont forget to use {{}} )
 - ng-on- for events
@@ -140,10 +150,11 @@ Web components contain:
 <div style="columns: 2">
 <div>
 
-This Presentation:  https://bit.ly/umbraco-uui
+Presentation :  https://bit.ly/umbraco-uui
 
+Sample Code: 
+https://bit.ly/uui-sample 
 Umbraco Storybook: https://uui.umbraco.com/
-
 Umbraco UI on Github:
 https://github.com/umbraco/Umbraco.UI
 
