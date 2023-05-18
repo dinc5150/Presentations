@@ -1,19 +1,28 @@
 ---
-marp: true
+marp: false
 theme: digital-momentum
 _class: lead
 header: '![Digital Momentum](https://www.digitalmomentum.com.au/Images/logos/Digital-Momentum.svg)' 
 
 
 ---
-<!-- 
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg) -->
 
 # **Umbraco Block Grid**
 
 <quote>"Launched with Umbraco 11 the Block Grid Editor brings new ways of structuring content, a smoother editing interface, and improved configuration and developer experience"</quote>
 
+
+<!-- 
+
+ 1. Introduce the block grid
+ 2. How to get setup
+ 3. Rendering in onto the website
+ 4. Basic in creating backoffice views
+ 5. Wireframing components
+ 6. Qustions / Advanced stuff if we have time
+
+-->
 ---
 
 ##### BlockGrid Vs Block
@@ -108,7 +117,7 @@ Show how views are setup and run though grid
 
 ---
 
-### Advanced Concepts
+### My 2c
 
 1. Use Compositions for common settings (Like BgImage, Padding)
 2. Use Tag Helpers for common block settings
@@ -120,25 +129,25 @@ Show how views are setup and run though grid
 ---
 # **Thanks**
 
-References:
-https://umbraco.com/blog/deep-dive-block-grid-editor-part-1/
 
 <div style="columns: 2">
 <div>
 
-Presentation :  https://bit.ly/umbraco-uui
+Presentation :  https://bit.ly/block-grid-editor
 
 Sample Code: 
-https://bit.ly/uui-sample 
-Umbraco Storybook: https://uui.umbraco.com/
-Umbraco UI on Github:
-https://github.com/umbraco/Umbraco.UI
+https://bit.ly/block-grid-editor-project
+
+
 
 </div>
 <div>
 
 This Presentation:
-![w:400px](img/qr.png)
+![w:300px](img/qr.png)
 
 </div>
 </div>
+
+References:
+https://umbraco.com/blog/deep-dive-block-grid-editor-part-1/
