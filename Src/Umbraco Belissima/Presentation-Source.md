@@ -20,6 +20,7 @@ A fully new modern front end to Backoffice, replacing Angular JS
 - Talking about Belissima - Due in May
 - Its a whole new backoffice that removes Angular JS and replaces with Web Components
 - There are a lot of new concepts, so only going to give a very high level overview
+- There is 20 slides + a demo, so will rush over a few things. Feel free to ask me more at the end.
 - Very flexable, but not always as simple as a good ol' package manifest and a javascript file.
 -->
 ---
@@ -46,12 +47,34 @@ https://dev.to/kevinjump/series
 
 - Everything in the new backoffice mainly comprises of:
   - Manifests
-  - Contexts
   - Web Components 
+  - Contexts
 - Prefered tools
   - Vite
   - Lit
   - Typescript
+
+---
+
+## Diving straight in
+
+<br/>
+<br/>
+<br/>
+<center>
+
+## **Building a property Editor**
+
+</center>
+
+<!--
+
+- going to demo how to build a property editor
+- Some new tools and setup, but in some ways its familiar
+- I wont go fully into tooling 
+- Demo the new Backoffice
+
+-->
 
 ---
 
@@ -66,6 +89,7 @@ https://dev.to/kevinjump/series
 <!-- 
 
 1. Go though the steps
+
 2. Demo the simple property editor
 
 -->
@@ -437,12 +461,26 @@ Open Anything:
 - UMB_CODE_EDITOR_MODAL,
 - UMB_CONFIRM_MODAL
 -->
----
-
-# Done!
-
- - 
- - https://dev.to/kevinjump/series
- - https://dev.to/leekelleher/umbraco-bellissima-wip-articles-29f8
 
 ---
+
+### Links
+
+<div style="columns: 2">
+<div>
+
+Presentation :  https://bit.ly/bellissima-Sydney
+
+Early Adopters Guide to v14: 
+https://dev.to/kevinjump/series
+Bellissima WIP articles: https://dev.to/leekelleher/umbraco-bellissima-wip-articles-29f8
+
+
+</div>
+<div>
+
+This Presentation:
+![w:400px](img/qr.svg)
+
+</div>
+</div>
